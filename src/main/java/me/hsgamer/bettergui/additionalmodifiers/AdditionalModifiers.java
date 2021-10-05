@@ -1,8 +1,8 @@
-package me.hsgamer.bettergui.exampleaddon;
+package me.hsgamer.bettergui.additionalmodifiers;
 
 import me.hsgamer.bettergui.api.addon.BetterGUIAddon;
 
-public final class ExampleAddon extends BetterGUIAddon {
+public final class AdditionalModifiers extends BetterGUIAddon {
 
     /**
      * Called when loading the addon
